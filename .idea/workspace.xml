@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dc4cb6e-fbd4-43c0-a94f-5be6d8ac661c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hjJPnMkdu9bghkBHg4QOeJNSua" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Project\free-broccoli\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project\free-broccoli\src\redux\actionTypes" />
+      <recent name="C:\Project\free-broccoli\src\redux\actions\user" />
+      <recent name="C:\Project\free-broccoli\src\redux\store" />
+      <recent name="C:\Project\free-broccoli\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dc4cb6e-fbd4-43c0-a94f-5be6d8ac661c" name="Default Changelist" comment="" />
+      <created>1600518545730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600518545730</updated>
+      <workItem from="1600518546809" duration="948000" />
+      <workItem from="1600521332405" duration="857000" />
+      <workItem from="1600603678784" duration="79000" />
+      <workItem from="1600603771455" duration="3021000" />
+      <workItem from="1600606813869" duration="6242000" />
+      <workItem from="1600672078498" duration="5949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/redux/actions/user/add.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="716" y="345" key="#Notifications" timestamp="1600672199235">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="716" y="345" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1600672199235" />
+    <state x="745" y="135" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1600609917985">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="745" y="135" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600609917985" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1600686667517">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1600686667517" />
+    <state width="1877" height="118" key="GridCell.Tab.0.bottom" timestamp="1600682818224">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="118" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600682818224" />
+    <state width="1877" height="118" key="GridCell.Tab.0.center" timestamp="1600682818224">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="118" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600682818224" />
+    <state width="1877" height="118" key="GridCell.Tab.0.left" timestamp="1600682818224">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="118" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600682818224" />
+    <state width="1877" height="118" key="GridCell.Tab.0.right" timestamp="1600682818224">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="118" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600682818224" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1600603758306">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1600603758306" />
+    <state x="739" y="369" key="cloudConfig.PluginsDialog" timestamp="1600672791137">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="369" key="cloudConfig.PluginsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600672791137" />
+    <state x="832" y="369" key="cloudConfig.SelfSettingsDialog" timestamp="1600672775316">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="832" y="369" key="cloudConfig.SelfSettingsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600672775316" />
+    <state x="668" y="100" width="583" height="849" key="find.popup" timestamp="1600682814622">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="100" width="583" height="849" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1600682814622" />
+  </component>
+</project>
